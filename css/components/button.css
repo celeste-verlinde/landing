@@ -1,0 +1,17 @@
+.btn-pink {
+	background-color: #A6583C;
+	color: white;
+  	padding: 10px 20px;
+  	text-align: center;
+  	text-decoration: none;
+ 	display: inline-block;
+ 	border:2px #A6583C;
+ 	border-radius: 50px;
+ 	margin-top: 20px;
+}
+
+  a:hover {
+  	background-color: white;
+  	color: #A6583C;
+  }
+ 
